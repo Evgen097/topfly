@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61736173-d592-4b6d-b2be-e593b7ca945a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/toposite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/fontsgoogle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/fontsopensans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/font/скачанные файлы.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/2/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/2/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/4/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/5/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/phantom/fabrik1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/phantom/phantom3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/phantom/phantom_origin5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/plan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/slider/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/vibericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/resources/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/resources/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/font/скачанные файлы.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/1/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/1/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/1/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/1/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/2/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/2/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/2/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/2/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/3/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/3/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/3/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/3/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/3/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/4/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/4/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/4/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/4/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/5/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/5/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/5/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/5/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/5/title.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/phantom/fabrik1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/phantom/phantom3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/phantom/phantom_origin5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/plan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/vibericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/resources/fontawesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/resources/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/DJI_0404.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/gpforsilte2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/gpforsilte3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/sunf2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новый фото для сайта/title.jpg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#19368#19604#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vide</find>
+      <find>font-size</find>
+      <find>fag_for_girls</find>
+      <find>welcome_left</find>
+      <find>video_text</find>
+      <find>Ев</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/slider.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dist/app.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/css/style.css" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="28" />
+    <option name="width" value="1622" />
+    <option name="height" value="1011" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="toposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toposite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="toposite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="toposite" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coursera\toposite" />
+      <recent name="D:\Coursera\toposite\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js (1)">
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$/app" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/dist" />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.app.js (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61736173-d592-4b6d-b2be-e593b7ca945a" name="Default" comment="" />
+      <created>1519129458687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519129458687</updated>
+      <workItem from="1519129461976" duration="13753000" />
+      <workItem from="1519205100742" duration="11186000" />
+      <workItem from="1519244784444" duration="5567000" />
+      <workItem from="1519295670412" duration="19406000" />
+      <workItem from="1519383733465" duration="8404000" />
+      <workItem from="1519423365967" duration="739000" />
+      <workItem from="1519480411375" duration="3844000" />
+      <workItem from="1519489045438" duration="1307000" />
+      <workItem from="1519501758803" duration="8327000" />
+      <workItem from="1519553879127" duration="73000" />
+      <workItem from="1543943257836" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72870000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="28" width="1622" height="1011" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18841502" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.44471446" />
+      <window_info anchor="bottom" id="Get Gist" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23086269" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27127004" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928312" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2607">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#19368#19604#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2607">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#19368#19604#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/slider.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/slider.js" />
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21351">
+          <caret line="647" column="15" selection-start-line="647" selection-start-column="15" selection-end-line="647" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/slider.js" />
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6303">
+          <caret line="191" column="14" selection-start-line="191" selection-start-column="14" selection-end-line="191" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6303">
+          <caret line="191" column="14" selection-start-line="191" selection-start-column="14" selection-end-line="191" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/1/short-dress_2.JPG" />
+    <entry file="file://$PROJECT_DIR$/img/1/short-dress_3.JPG" />
+    <entry file="file://$PROJECT_DIR$/js/slider.js" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/resources/fontawesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/libs.min.js" />
+    <entry file="file://$PROJECT_DIR$/dist/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/app/font/скачанные файлы.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/app.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="129" column="31" selection-start-line="129" selection-start-column="31" selection-end-line="129" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json" />
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#19368#19604#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
